@@ -79,3 +79,4 @@ For issues and features request, use **Github** or access the [support page](htt
 
 ---
 [GatsbyJS Tailwind Starter](https://gatsbyjs-starter-tailwindplay.appseed.us/) provided by **AppSeed**
+# gatsby-tailwind-selber
